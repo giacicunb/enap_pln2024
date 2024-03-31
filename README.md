@@ -8,7 +8,7 @@ O curso está dividido nos seguintes módulos:
 
 1. [Background](background/README.md)
 
-   1.1 [Exercício Prático](background/ex.md)
+   1.1 [Exercício Prático]([background/ex.md](https://www.kaggle.com/t/50aaa286e06347958ebf4e0f1c2a6abd))
 
 2. [Redes Neurais Recorrentes](rnn/README.md)
 
