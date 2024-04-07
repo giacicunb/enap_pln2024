@@ -10,17 +10,21 @@ O curso está dividido nos seguintes módulos:
 
    1.1 [Exercício Prático](https://www.kaggle.com/t/50aaa286e06347958ebf4e0f1c2a6abd)
 
-2. [Redes Neurais Recorrentes](rnn/README.md)
+2. [Redes Neurais Profundas](dnn/README.md)
 
-   2.1 [Exercício Prático](rnn/ex.md)
+   2.1 [Exercício Prático](dnn/ex.md)
+   
+3. [Redes Neurais Recorrentes](rnn/README.md)
 
-3. [Mecanismos de Atenção e Transformers](atention/README.md)
+   3.1 [Exercício Prático](rnn/ex.md)
 
-   3.1 [Exercício Prático](atention/ex.md)
+4. [Mecanismos de Atenção e Transformers](atention/README.md)
 
-4. [Large Language Models](llms/README.md)
+   4.1 [Exercício Prático](atention/ex.md)
 
-   4.1 [Exercício Prático](llms/ex.md)
+5. [Large Language Models](llms/README.md)
+
+   5.1 [Exercício Prático](llms/ex.md)
 
 ## Metodologia
 
