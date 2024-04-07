@@ -42,7 +42,7 @@ Os professores estarão disponíveis para tirar dúvidas via e-mail e no fórum 
 
 ## Bibliografia
 
-- Dive into Deep Learning
+- Zhang, A., Lipton, C. Z., Li M., and Smola, A. J., Dive into Deep Learning, vol. 02, 2023.
 - Jurafsky, D. and Martin, J.H., Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition, Prentice Hall, 2008.
 - Goodfellow I., Bengio Y. and Courville A., Deep Learning , The MIT Press, 800 páginas, 2016.
 - Bengfort B., Ojeda T., Bilbro R., Applied Text Analysis with Python, O’Reilly Media, 332 páginas, 2018.
