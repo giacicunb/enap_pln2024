@@ -5,3 +5,5 @@
 2.2. [Classificação de Textos utilizando uma Vanilla RNN (RNN de Elman)](rnn_text_classification.ipynb) 
 
 2.3. [Long Short-Term Memory](lstm.md)
+
+2.4. [Word Embeddings](word_embeddings_word2vec.ipynb)
