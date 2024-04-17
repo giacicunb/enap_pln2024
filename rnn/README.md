@@ -2,8 +2,8 @@
 
 2.1. [Modelo de Linguagem utilizando uma Vanilla RNN (RNN de Elman)](rnn_language_model.ipynb)
 
-2.2. [Classificação de Textos utilizando uma Vanilla RNN (RNN de Elman)](rnn_text_classification.ipynb) 
+2.2. [Reconhecimento de Entidades Nomeadas Utilizando LSTM]([lstm.md](https://github.com/giacicunb/enap_pln2024/blob/main/rnn/pytorch_ner_conll_lstm.ipynb))
 
-2.3. [Long Short-Term Memory](lstm.md)
+2.3. [Word Embeddings](word_embeddings_word2vec.ipynb)
 
-2.4. [Word Embeddings](word_embeddings_word2vec.ipynb)
+2.4. [Reconhecimento de Entidades Nomeadas Utilizando LSTM e Word2vec Embeddings Pré-treinados](https://github.com/giacicunb/enap_pln2024/blob/main/rnn/pytorch_ner_conll_word2vec_lstm.ipynb)
