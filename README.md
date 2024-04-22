@@ -18,13 +18,15 @@ O curso está dividido nos seguintes módulos:
 
    3.1 [Exercício Prático](rnn/ex.md)
 
-4. [Mecanismos de Atenção e Transformers](atention/README.md)
+4. [Modelos Seq2Seq](seq2seq2/README.md)
 
-   4.1 [Exercício Prático](atention/ex.md)
+5. [Mecanismos de Atenção e Transformers](atention/README.md)
 
-5. [Large Language Models](llms/README.md)
+   5.1 [Exercício Prático](atention/ex.md)
 
-   5.1 [Exercício Prático](llms/ex.md)
+6. [Large Language Models](llms/README.md)
+
+   6.1 [Exercício Prático](llms/ex.md)
 
 ## Metodologia
 
