@@ -7,3 +7,5 @@
 2.3. [Word Embeddings - Word2vec](word_embeddings_word2vec.ipynb)
 
 2.4. [Reconhecimento de Entidades Nomeadas Utilizando LSTM e Word2vec Embeddings Pré-treinados](pytorch_ner_conll_lstm_word2vec.ipynb)
+
+2.5. [Aula de Revisão: Classificação de Notícias utilizando BiLSTM](pytorch_ner_conll_lstm_word2vec.ipynb)
